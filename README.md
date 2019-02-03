@@ -1,2 +1,8 @@
-# Weather-Info-App
-Intermediate level Flutter Project
+# climatic
+
+weather forcasting app.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
